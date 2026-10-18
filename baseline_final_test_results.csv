@@ -1,0 +1,2 @@
+Selected Model,Test MAE (INR),Test RMSE (INR),Test R2,Training Rows,Test Rows
+Extra Trees,11448.19,19307.03,0.8915,793,199

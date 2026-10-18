@@ -1,0 +1,5 @@
+Model,Mean CV MAE (INR),MAE Std (INR),CV Time (seconds)
+Extra Trees,10974.63,2039.72,11.76
+Random Forest,11671.98,2173.83,10.07
+Linear Regression,12386.27,1388.73,0.79
+Gradient Boosting,13347.47,1803.8,2.28
